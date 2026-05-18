@@ -68,19 +68,14 @@ Senior ML Engineer & Data Scientist basé à **Paris / Joinville-le-Pont**, j'ai
 
 ---
 
-### 🛒 [oc-ml-p5](https://github.com/Thioyedev/oc-ml-p5) — Catégorisation automatique de questions
-> Projet NLP de certification ML Engineer (OpenClassrooms)
 
-**Stack** : Python · Scikit-Learn · NLP · TF-IDF · Word2Vec
-
----
 
 ## 📊 Expériences clés
 
 | Période | Rôle | Entreprise | Impact |
 |---------|------|-----------|--------|
 | 2022–2025 | Lead Data Scientist | Yassir (YC W20) | 6 modèles prod, 2 squads ML (10 pers.) |
-| 11/2025–02/2026 | Senior MLOps Engineer | RTE (AIRMI) | 16TB+, Azure ML, GenAI NL-to-SQL |
+| 11/2025–02/2026 | Senior MLOps Engineer | RTE (AIRMI) |  Platform MLOPS sur Azure ML |
 | 2019–2022 | Senior ML Engineer | Futurescore.io | Prévision retail Decathlon, ETAM, Celio |
 | 2017–2019 | Data Scientist | TNP Consultants | PSA, Renault, EDF — LSTM, XGBoost, NLP |
 | 2015–2017 | Data Scientist | Orange | 8 modèles scoring (churn, up-sell, etc.) |
@@ -89,10 +84,10 @@ Senior ML Engineer & Data Scientist basé à **Paris / Joinville-le-Pont**, j'ai
 
 ## 🎓 Certifications récentes
 
-- 🏅 **Generative AI with LLMs** — DeepLearning.AI × AWS (2026) — PEFT/LoRA, RLHF, RAG, Agents
+- 🏅 **Generative AI with LLMs** — DeepLearning.AI × AWS (2026) — PEFT/LoRA, RLHF, RAG, Agents 
 - 🏅 **Dataiku Generative AI Practitioner** (Avril 2026)
 - 🏅 **Dataiku Core Designer** (Avril 2026)
-- 🎓 **ENSAI** — Diplômé Statisticien Économiste
+- 🎓 **ENSAI** — Diplômé Ingénieur Data science
 
 ---
 
@@ -104,7 +99,7 @@ Senior ML Engineer & Data Scientist basé à **Paris / Joinville-le-Pont**, j'ai
 
 <div align="center">
 
-**Disponible pour missions freelance (600–650€/j HT) ou CDI — Paris / Remote**
+**Disponible pour missions freelance — Paris / Remote**
 
 [![Portfolio](https://img.shields.io/badge/Voir_mon_portfolio-→-0A66C2?style=for-the-badge)](https://daoudathioye.netlify.app)
 
