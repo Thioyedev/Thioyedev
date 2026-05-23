@@ -1,8 +1,8 @@
 <div align="center">
 
-# Daouda Thioye · Senior ML Engineer & Data Scientist
+# Daouda Thioye · Senior AI | ML Engineer & Data Scientist
 
-**8+ ans · Production ML · MLOps · GenAI · GCP · Azure**
+**8+ ans · Production ML · MLOps · GenAI · Multi Cloud **
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-daoudathioye.netlify.app-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://daoudathioye.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daouda-thioye)
@@ -15,13 +15,13 @@
 
 ## 🚀 À propos
 
-Senior ML Engineer & Data Scientist basé à **Paris / Joinville-le-Pont**, j'ai déployé **6 modèles ML en production** et managé des équipes data jusqu'à 10 personnes. Je construis des systèmes ML robustes — du notebook à la prod — avec une obsession pour la mesure d'impact business.
+Senior AI | ML Engineer & Data Scientist basé à **Paris**, j'ai déployé **6 modèles ML en production** et managé des équipes data jusqu'à 10 personnes. Je construis des systèmes ML robustes — du notebook à la prod — avec une obsession pour la mesure d'impact business.
 
 - 🏗️ **Dispatch LightGBM** → +5% acceptance, -3min temps d'attente (Yassir, YC W20)
 - 📈 **Surge pricing model** → +30% rides activés en peak, +5% revenus/ride
-- 🤖 **Recommender ALS + FP-Growth** → +8% AOV via A/B test
-- 🔧 **MLOps Azure** → 16TB+ ingérés, 5 partenaires industriels (RTE/AIRMI)
-- 🎓 **Enseignant** : ENSAI · HETIC · EDC Paris · Mentor OpenClassrooms (2019–)
+- 🤖 **Food delivery Recommender Systems** → +8% AOV via A/B test
+- 🔧 **MLOps Azure** → Plateforme Mlops en production pour l'entrainement et l'inférence automatisés de modèles de détection d'anomalies (RTE/AIRMI)
+- 🎓 **Enseignant IA** : ENSAI · HETIC · EDC Paris · Mentor OpenClassrooms (2019–)
 
 ---
 
@@ -61,8 +61,8 @@ Senior ML Engineer & Data Scientist basé à **Paris / Joinville-le-Pont**, j'ai
 
 ## 📌 Projets phares
 
-### 🔭 [StatIQ](https://github.com/SenStat/statiq) — NL Analytics Platform · [🔴 LIVE](https://statiq-frontend-3220091638.europe-west1.run.app)
-> Plateforme multi-agents GCP — posez vos questions data en langage naturel, obtenez analyse stats, visualisations et forecasts en temps réel.
+### 🔭 [StatIQ](https://github.com/SenStat/statiq) — NL Analytics Platform · 
+> Plateforme multi-agents — posez vos questions data en langage naturel, obtenez analyse stats, visualisations et forecasts en temps réel.
 
 **Stack** : LangGraph · Claude API · BigQuery · Cloud Run · FastAPI · Streamlit · Redis · Langfuse
 
