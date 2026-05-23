@@ -2,7 +2,7 @@
 
 # Daouda Thioye · Senior AI | ML Engineer & Data Scientist
 
-**8+ ans · Production ML · MLOps · GenAI · Multi Cloud **
+**8+ ans · Production ML · MLOps · GenAI · Multi Cloud**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-daoudathioye.netlify.app-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://daoudathioye.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daouda-thioye)
@@ -20,7 +20,7 @@ Senior AI | ML Engineer & Data Scientist basé à **Paris**, j'ai déployé **6 
 - 🏗️ **Dispatch LightGBM** → +5% acceptance, -3min temps d'attente (Yassir, YC W20)
 - 📈 **Surge pricing model** → +30% rides activés en peak, +5% revenus/ride
 - 🤖 **Food delivery Recommender Systems** → +8% AOV via A/B test
-- 🔧 **MLOps Azure** → Plateforme Mlops en production pour l'entrainement et l'inférence automatisés de modèles de détection d'anomalies (RTE/AIRMI)
+- 🔧 **MLOps Azure** → Plateforme MLOps en production pour l'entraînement et l'inférence automatisés de modèles de détection d'anomalies (RTE/AIRMI)
 - 🎓 **Enseignant IA** : ENSAI · HETIC · EDC Paris · Mentor OpenClassrooms (2019–)
 
 ---
@@ -61,21 +61,38 @@ Senior AI | ML Engineer & Data Scientist basé à **Paris**, j'ai déployé **6 
 
 ## 📌 Projets phares
 
-### 🔭 [StatIQ](https://github.com/SenStat/statiq) — NL Analytics Platform · 
-> Plateforme multi-agents — posez vos questions data en langage naturel, obtenez analyse stats, visualisations et forecasts en temps réel.
+### 🔭 [StatIQ](https://github.com/Thioyedev/statiq) — NL Analytics Platform
+
+> Plateforme multi-agents de production — posez vos questions data en langage naturel, obtenez analyses statistiques, visualisations et forecasts en temps réel.
 
 **Stack** : LangGraph · Claude API · BigQuery · Cloud Run · FastAPI · Streamlit · Redis · Langfuse
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
 ---
 
+### 🤖 [SenStatIA](https://github.com/Thioyedev/SenstatIA) — RAG Platform for Senegal Statistics
 
+> Plateforme RAG intelligente qui fournit des réponses vérifiées et citées aux questions statistiques sur le Sénégal — données officielles, indicateurs économiques et sociaux.
+
+**Stack** : Claude API · RAG · FastAPI · LangChain · Vector DB
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366f1?style=flat-square)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+
+---
 
 ## 📊 Expériences clés
 
 | Période | Rôle | Entreprise | Impact |
 |---------|------|-----------|--------|
 | 2022–2025 | Lead Data Scientist | Yassir (YC W20) | 6 modèles prod, 2 squads ML (10 pers.) |
-| 11/2025–02/2026 | Senior MLOps Engineer | RTE (AIRMI) |  Platform MLOPS sur Azure ML |
+| 11/2025–02/2026 | Senior MLOps Engineer | RTE (AIRMI) | Platform MLOps sur Azure ML |
 | 2019–2022 | Senior ML Engineer | Futurescore.io | Prévision retail Decathlon, ETAM, Celio |
 | 2017–2019 | Data Scientist | TNP Consultants | PSA, Renault, EDF — LSTM, XGBoost, NLP |
 | 2015–2017 | Data Scientist | Orange | 8 modèles scoring (churn, up-sell, etc.) |
@@ -84,7 +101,7 @@ Senior AI | ML Engineer & Data Scientist basé à **Paris**, j'ai déployé **6 
 
 ## 🎓 Certifications récentes
 
-- 🏅 **Generative AI with LLMs** — DeepLearning.AI × AWS (2026) — PEFT/LoRA, RLHF, RAG, Agents 
+- 🏅 **Generative AI with LLMs** — DeepLearning.AI × AWS (2026) — PEFT/LoRA, RLHF, RAG, Agents
 - 🏅 **Dataiku Generative AI Practitioner** (Avril 2026)
 - 🏅 **Dataiku Core Designer** (Avril 2026)
 - 🎓 **ENSAI** — Diplômé Ingénieur Data science
