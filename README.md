@@ -91,8 +91,8 @@ Senior AI | ML Engineer & Data Scientist basé à **Paris**, j'ai déployé **6 
 
 | Période | Rôle | Entreprise | Impact |
 |---------|------|-----------|--------|
-| 2022–2025 | Lead Data Scientist | Yassir (YC W20) | 6 modèles prod, 2 squads ML (10 pers.) |
-| 11/2025–02/2026 | Senior MLOps Engineer | RTE (AIRMI) | Platform MLOps sur Azure ML |
+| 11/2025–02/2026 | Senior ML Engineer | RTE (AIRMI) | Platform MLOps sur Azure ML |
+| 2022–2025 | Lead Data Scientist | Yassir (YC W20) | 6 modèles en prod, Plateforme analytique multi-agents 2 squads ML (10 pers.) |
 | 2019–2022 | Senior ML Engineer | Futurescore.io | Prévision retail Decathlon, ETAM, Celio |
 | 2017–2019 | Data Scientist | TNP Consultants | PSA, Renault, EDF — LSTM, XGBoost, NLP |
 | 2015–2017 | Data Scientist | Orange | 8 modèles scoring (churn, up-sell, etc.) |
